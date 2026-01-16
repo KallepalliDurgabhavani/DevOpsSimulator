@@ -1,11 +1,11 @@
 # My Git Mastery Challenge Journey
 
 ## Student Information
-- Name: Kallepalli Akash Sai Ganesh Govind
-- Student ID: 23MH1A1220
-- Repository: https://github.com/Akashkallepalli/git-solved-23MH1A1220.git
-- Date Started: 29-10-2025
-- Date Completed:30-10-2025
+- Name: Kallepalli Durga Bhavani
+- Student ID: 22MH1A05H9
+- Repository: https://github.com/KallepalliDurgabhavani/DevOpsSimulator.git
+- Date Started: 13-11-2025
+- Date Completed:16-01-2026
 
 ## Task Summary
 Cloned instructor's repository with pre-built conflicts and resolved all 
